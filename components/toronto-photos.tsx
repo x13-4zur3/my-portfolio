@@ -7,34 +7,34 @@ import { useRef } from "react"
 
 const photos = [
   {
-    title: "CN Tower at Sunset",
-    image: "/placeholder.svg?height=400&width=600",
-    description: "Iconic Toronto skyline featuring the CN Tower",
+    title: "Toronto City Hall",
+    image: "/IMG_2306.jpeg?height=400&width=600",
+    description: "Iconic Toronto city hall",
   },
   {
-    title: "Distillery District",
-    image: "/placeholder.svg?height=400&width=600",
-    description: "Historic cobblestone streets and Victorian architecture",
+    title: "CN Tower",
+    image: "/IMG_2330.jpeg?height=400&width=600",
+    description: "Tallest building of Canada, CN Tower",
   },
   {
-    title: "Toronto Islands",
-    image: "/placeholder.svg?height=400&width=600",
-    description: "Peaceful waterfront escape from the city",
+    title: "Brookfield Place",
+    image: "/IMG_2592.jpeg?height=400&width=600",
+    description: "A lobby filled with history of art and breathtaking architecture.",
   },
   {
-    title: "Graffiti Alley",
-    image: "/placeholder.svg?height=400&width=600",
-    description: "Vibrant street art in the heart of downtown",
+    title: "Charlemagne Bar at Spadina",
+    image: "/IMG_2521.jpeg?height=400&width=600",
+    description: "Upscale cocktail bar with amazing drinks and service.",
   },
   {
-    title: "St. Lawrence Market",
-    image: "/placeholder.svg?height=400&width=600",
-    description: "One of the world's best food markets",
+    title: "Toronto Skyline",
+    image: "/IMG_2586.jpeg?height=400&width=600",
+    description: "Amazing Toronto skyline during sunset",
   },
   {
-    title: "Toronto Waterfront",
-    image: "/placeholder.svg?height=400&width=600",
-    description: "Beautiful Lake Ontario shoreline at dusk",
+    title: "CN Tower during the night",
+    image: "/IMG_2327.jpeg?height=400&width=600",
+    description: "CN Tiower during the night",
   },
 ]
 
